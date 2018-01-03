@@ -2,3 +2,5 @@
 Directorio con la ducumentación sobre el control de temperatura con NodeMCU y programado con Arduino
 
 Video: https://youtu.be/zLw39d-6L_0
+
+El esquema y la PCB están realizados con el Kicad
